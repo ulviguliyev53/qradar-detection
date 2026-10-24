@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Supheli Encoded PowerShell Icrasi",
+  "description": "PowerShell uzerinden gizlenmis (encoded/base64) komutlarin calistirildigini tespit eder (Sysmon ID 1).",
+  "enabled": true,
+  "severity": "High"
+}
