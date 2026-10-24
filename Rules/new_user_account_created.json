@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Yeni Kullanici Hesabi Olusturuldu",
+  "description": "Windows Domain veya Server ortaminda yeni bir kullanici hesabi olusturuldugunu tespit eder (Event ID 4720).",
+  "enabled": true,
+  "severity": "Medium"
+}
