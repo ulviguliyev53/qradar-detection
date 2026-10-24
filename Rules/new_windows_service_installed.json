@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Yeni Windows Servisi Kuruldu",
+  "description": "Sistemde kalıcılık (persistence) sağlamak amacıyla yeni bir Windows servisinin yüklendiğini tespit eder (Event ID 7045).",
+  "enabled": true,
+  "severity": "Medium"
+}
