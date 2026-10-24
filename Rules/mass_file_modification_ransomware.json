@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Kutlevi Dosya Modifikasiyasi Ransomware",
+  "description": "Kısa süre içerisinde çok sayıda dosyanın oluşturulduğunu veya değiştirildiğini tespit eder (Sysmon ID 11).",
+  "enabled": true,
+  "severity": "High"
+}
