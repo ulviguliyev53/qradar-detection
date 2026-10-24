@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Process Injection Tespiti",
+  "description": "Bir sürecin başka bir sürecin belleğine müdahale etmeye çalıştığını (CreateRemoteThread) tespit eder (Sysmon ID 8).",
+  "enabled": true,
+  "severity": "High"
+}
