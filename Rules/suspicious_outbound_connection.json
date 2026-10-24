@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Supheli Dis Ag Baglantisi C2",
+  "description": "Sunucu ortamindan bilinmeyen veya şüpheli dış portlara doğru ağ bağlantısı kurulduğunu tespit eder (Sysmon ID 3).",
+  "enabled": true,
+  "severity": "High"
+}
