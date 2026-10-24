@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Administrator Grubuna Kullanici Eklendi",
+  "description": "Kritik Administrator veya yerel yonetici grubuna yeni bir uye eklendigini tespit eder (Event ID 4732).",
+  "enabled": true,
+  "severity": "High"
+}
