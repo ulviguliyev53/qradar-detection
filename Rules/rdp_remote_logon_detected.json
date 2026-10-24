@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Uzaktan RDP Oturumu Acildi",
+  "description": "Server veya kritik sistemlere Remote Desktop (Logon Type 10) üzerinden bağlantı kurulduğunu tespit eder (Event ID 4624).",
+  "enabled": true,
+  "severity": "Low"
+}
