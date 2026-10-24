@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Zamanlanmis Gorev Olusturuldu",
+  "description": "Sistemde kalıcılık veya arka planda zararlı tetikleme için zamanlanmış görev oluşturulduğunu tespit eder (Event ID 4698).",
+  "enabled": true,
+  "severity": "Medium"
+}
