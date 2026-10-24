@@ -1,0 +1,6 @@
+{
+  "name": "MilliSec - Denetim Loglari Temizlendi",
+  "description": "Saldırganın izleri kaybettirmek için güvenlik denetim loglarını sildiğini/temizlediğini tespit eder (Event ID 1102).",
+  "enabled": true,
+  "severity": "High"
+}
